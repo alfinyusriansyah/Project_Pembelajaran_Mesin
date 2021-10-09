@@ -1,2 +1,2 @@
-# Project_Pembelajaran_Mesin
+# Project Pembelajaran Mesin
 Pembelajaran Mesin (Alfin &amp; Randi)
