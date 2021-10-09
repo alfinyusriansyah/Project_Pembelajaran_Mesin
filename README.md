@@ -18,3 +18,4 @@ Pembelajaran Mesin (Alfin &amp; Randy)
 1. [Tugas 1: Dataset](TBD)
 2. [Tugas 2: TBD](TBD)
 3. .. 
+ 
