@@ -6,11 +6,11 @@ Pembelajaran Mesin (Alfin &amp; Randy)
 |Anggota|NIM  |
 |--|--|
 | M.Randy Anugerah| 201810370311051  |
-| Nama Alfin| nim iqlima |
+| Alfin Yusriansyah| 201810370311057 |
 
 ## Link Google Sheet
-Team-Details : 
-Sprint-Details : [Sprint-deatils.xlsx] 
+* Team-Details : 
+* Sprint-Details : [Sprint-deatils.xlsx] 
 
 
 ## Sub-directory tugas
