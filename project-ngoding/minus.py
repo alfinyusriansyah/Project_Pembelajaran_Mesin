@@ -1,2 +1,2 @@
 def minus(a,b):
-    # Tolong kerain dong randy
+    return a-b
