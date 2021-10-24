@@ -1,5 +1,5 @@
 # Project Pembelajaran Mesin
-Pembelajaran Mesin (Alfin &amp; Randy)
+![](https://gcdn.pbrd.co/images/Sfu3Q67dQrTF.png?o=1)
 
 #  Dokumentasi Tugas Kelompok Pembelajaran Mesin
 
@@ -13,9 +13,8 @@ Pembelajaran Mesin (Alfin &amp; Randy)
 * Sprint-Details : [Sprint-details.xlsx](https://docs.google.com/spreadsheets/d/1mU32nh0Tg_QZ1Ap794dvF9F5E46-XGcqobITMUqDZ6Q/edit?usp=sharing) 
 
 ## Link Dataset
-[Dataset](https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification)
-
-## Link Dataset
 [Dataset: AdienceBenchmarkGenderAndAgeClassification](https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification)
+
+
 
  
