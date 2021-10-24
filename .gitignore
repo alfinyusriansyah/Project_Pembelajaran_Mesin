@@ -2,9 +2,17 @@
 /pembelajaran-mesin-env
 
 # Gitignore Randy
+
 **/archive.zip
 archive.zip
 
 **/AdienceBenchmarkGenderAndAgeClassification
 
 /AdienceBenchmarkGenderAndAgeClassification
+
+/.vscode
+
+
+**/cell_images
+
+cell_images
