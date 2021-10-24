@@ -2,3 +2,11 @@
 /pembelajaran-mesin-env
 
 # Gitignore Randy
+
+**/archive.zip
+
+archive.zip
+
+**/AdienceBenchmarkGenderAndAgeClassification
+
+/AdienceBenchmarkGenderAndAgeClassification
