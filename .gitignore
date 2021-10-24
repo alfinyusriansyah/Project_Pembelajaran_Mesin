@@ -4,7 +4,6 @@
 # Gitignore Randy
 
 **/archive.zip
-
 archive.zip
 
 **/AdienceBenchmarkGenderAndAgeClassification
