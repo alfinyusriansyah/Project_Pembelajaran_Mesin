@@ -14,7 +14,4 @@
 
 ## Link Dataset
 [Dataset: AdienceBenchmarkGenderAndAgeClassification](https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification)
-
-
-BANG2 BANG BANG BANG
  
