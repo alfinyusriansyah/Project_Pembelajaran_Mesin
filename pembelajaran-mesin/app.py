@@ -3,8 +3,8 @@ import numpy as np
 import streamlit as st
 import tensorflow as tf
 
-model_age = tf.keras.models.load_model("/content/best_model_age_tunning_2.h5")
-model_gender = tf.keras.models.load_model("/content/best_model_gender_tunning.h5") 
+model_age = tf.keras.models.load_model("best_model_age_tunning_2.h5")
+model_gender = tf.keras.models.load_model("best_model_gender_tunning_2.h5") 
 
 map_dict_gender = {
     0 : 'female',
