@@ -35,5 +35,5 @@ Tools yang digunakan untuk compile/running program adalah Google Colab dan Visua
 - jalankan **app.py** pada terminal dengan mengetik **streamlit run app.py**
 
 # Hasil dari running
-![image](https://drive.google.com/file/d/1FCQb_WTPjTqPz1KlM6gH6mFmPgAuOlFg/view?usp=sharing)
-![image](https://drive.google.com/file/d/1vD6yRKYdbU25Oc5xk1mIinITariaIReJ/view)
+![image](2.png)
+![image](4.png)
