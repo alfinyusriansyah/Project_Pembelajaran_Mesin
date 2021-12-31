@@ -25,7 +25,7 @@ Pada project ini menggunakan dataset citra yang sudah tersedia di situs web Kagg
  - data tabular sebesar 19.370 kolom dan 12 baris.
 Tools yang digunakan untuk compile/running program adalah Google Colab dan Visual basic Code.
 
-# Cara Menjalankan App program di lokal
+## Cara Menjalankan App program di lokal
 - Clone github ini : **https://github.com/alfinyusriansyah/Project_Pembelajaran_Mesin.git**
 - Jalankan Program **.ipynb** dan simpan model **.h5** untuk *Gender* dan *Age*,
 - Untuk model terbaik itu didapatkan pada Model *Gender* kedua dan Model *Age* Kedua,
@@ -34,6 +34,6 @@ Tools yang digunakan untuk compile/running program adalah Google Colab dan Visua
 - *Copy Path* semua model **.h5** kedalam variabel **model_age** dan **model_gender** yang terdapat pada **app.py**
 - jalankan **app.py** pada terminal dengan mengetik **streamlit run app.py**
 
-# Hasil dari running
+## Hasil dari running
 ![image](2.png)
 ![image](4.png)
